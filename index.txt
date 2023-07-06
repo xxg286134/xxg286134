@@ -2,4 +2,4 @@ Gitinit 0.0
 Gitinit 0.1
 Gitinit 1.1 短视频
 Gitinit 2.1 约饭
-Gitinit 3.1 商城 50%
+Gitinit 3.1 商城 100%
